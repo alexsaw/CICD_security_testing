@@ -3,6 +3,7 @@ A GitLab pipeline that will build, and test a vulnerable webserver, and a harden
 
 ## To Do
 - [ ] [Purchase a domain name](https://www.domain.com/domains) for this project
+  - [ ] * [Google Cloud CLI install Instructions](https://cloud.google.com/sdk/docs/downloads-interactive)
 - [ ] Run [GitLab](https://docs.gitlab.com/ee/install/google_cloud_platform/) either in GKE or GCP hosted VM
 - [ ] Set up Pipeline that builds two web applicaitons:
   - [ ] One vulnerable [One or more of the apps listed here](https://geekflare.com/practice-hacking-legally/)
